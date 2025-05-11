@@ -3,8 +3,9 @@ A ML model that analyzes Twitter data to uncover patterns, sentiments, and discu
 
 ![Picture1](https://github.com/user-attachments/assets/e20dbf63-c159-4474-86e0-d969d874615b)
 
-## Introduction
 ---
+## Introduction
+
 ### Women Inclusion and Safety in Society
 
 - The inclusion and safety of women in modern society is a problem that over the years has become increasingly important in all countries, leading to a large number of awareness campaigns and social movements. 
@@ -24,15 +25,16 @@ Therefore, twitter conversations can be  used to analyze the sentiments of peopl
 
 ![image](https://github.com/user-attachments/assets/eefc4aa0-e4bd-4d8c-aaca-8e2a5d5cf6dc)
 
-
-## Objective
 ---
+## Objective
+
 - To highlight the rising issue of  inclusion and safety of women in modern society by analyzing the opinions, behavior and sentiments of people through tweets.
 - To investigate the assorted wrongdoings against the ladies by making use of preferred and powerful social media data with the help of specific keywords and hashtags.
 - To show true insights and educate people about the sensational expansion in the quantity of wrongdoings against women in the form of a web application.
 
-## Methodology
 ---
+## Methodology
+
 1. **Data Collection**: Twitter Scraper and the data world website is used for collecting the dataset of tweets.
 2. **Preprocessing**: Once tweets are collected, tweets are pre-processed to remove unnecessary noise.
 4. **Sentiment Analysis**: With the help of Text Blob and VADER labeled each tweet as Positive, Negative, and Neutral. Also, emotions will be analyzed using Text_to_Emotion library.
@@ -42,8 +44,9 @@ Therefore, twitter conversations can be  used to analyze the sentiments of peopl
 
 ![image](https://github.com/user-attachments/assets/e3c264f5-16f3-4658-a636-cb6abf36abed)
 
-## Results
 ---
+## Results
+
 ### Comparative Analysis of Different Classifiers
 
 The accuracy of Naive Bayes is 90.77%, Logistic Regression is 95.62%, Random Forest is 96.28% and Support Vector Machine is 96.41%. 
